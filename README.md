@@ -152,7 +152,7 @@ then you can fill above arrays using the respective functions of model as follow
 	);
 
 #### NOTE :
-*   If you want to Save any record which is goind to be deleted,
+*   If you want to Save any record which is going to be deleted,
 	then you can specify column name of which you want to keep value of,
 	in 5th parameter in deletion_logs() function call say 'user_name' 
 
