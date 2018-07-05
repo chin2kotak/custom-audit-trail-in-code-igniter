@@ -2,7 +2,7 @@
 here's log keeping model and its usage shown below
 
 # A one more new model ? why ?
-Recently i was in need to have a model which can help me to keep track of each database change with allowing me to go through my conditionds as well. After a lots of try and i didn't find anything for the same, then i decided to start writing my own. 
+Recently i was in need to have a model which can help me to keep track of each database change with allowing me to go through my conditions as well. After a lots of try and i didn't find anything for the same, then i decided to start writing my own. 
 
 as i created log file and simultaneously integrated into my project, and as i proceed further it got much clearer, i have to add something, drop something as well, and finally i got every thing in one log file. i tried to generalize as i could. but feel free to change it as you like. 
 
